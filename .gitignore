@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+
+# Maven build output
+target/
+*.class
+*.jar
+*.war
+*.nar
+
+# IDE / editor settings
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
